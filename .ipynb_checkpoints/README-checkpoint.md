@@ -1,5 +1,0 @@
-# tools-scripts
-
-# tinybert 目录下为mindspore版本内部分权重转换以及数据集转换使用到的封装脚本，具体可以看对应的sh脚本或者readme
-
-# imgdataset_aug目录下为封装的数据增强模块，使用第三方增强模块：albumentations。具体使用可以看代码或者readme
